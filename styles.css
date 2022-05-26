@@ -13,7 +13,7 @@
     font-family: 'Outfit';
 }
 body {
-    background-color: var(--White);
+    background-color: var(--Light-gray);
 }
 
 
@@ -29,7 +29,7 @@ body {
 .card{
     width: 300px;
     height: 500px;
-    background-color: #d5e1ef;
+    background-color: var(--White);
     border-radius: 20px;
 }
 
